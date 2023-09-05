@@ -1,0 +1,10 @@
+/* body {
+  background-color: rgb(212, 212, 212);
+} */
+
+body {
+  background-image: url(../src/assets/images/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
